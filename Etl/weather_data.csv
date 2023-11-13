@@ -1,0 +1,2 @@
+Data da Ingestão,Tipo,Valores,Uso
+2023-11-13 11:32:47,Clear,"{'temp': 308.7, 'feels_like': 309.36, 'temp_min': 308.35, 'temp_max': 309.09, 'pressure': 1014, 'humidity': 33}",OpenWeather API
